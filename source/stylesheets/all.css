@@ -59,6 +59,12 @@ p.lead {
   background-size: cover;
 }
 
+.grenade-photo {
+  min-height: 500px;
+  background: url(../images/grenade.jpg) no-repeat center center;
+  background-size: cover;
+}
+
 .ankert-photo {
   min-height: 500px;
   background: url(../images/ankert.jpg) no-repeat center center;
